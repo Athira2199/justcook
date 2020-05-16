@@ -1,0 +1,25 @@
+body{
+    background-color:#e0e300;
+}
+.recipeSet{
+    background-image:url("images/rebg.jpg");
+    background-repeat:none;
+    background-size:cover;
+    
+}
+thead tr th{
+    text-align:center;
+}
+.recipe img{
+    height:30%;;
+    width:100%;
+}
+.recipe{
+    background-color: rgba(0,191,175,0.7);
+    text-align:center;
+    padding:4%;
+}
+.recipeTitle{
+    color:white;
+    font-weight:bolder;
+}
